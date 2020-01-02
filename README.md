@@ -1,6 +1,9 @@
 # HarvardX_Capstone_SingleCellAnalysis
 The "Choose Your Own" project of the HarvardX Capstone course: Single Cell RNA and Protein Profiling
 
+Can also be visited here:
+http://rpubs.com/delongmeng/563428
+
 # Introduction
 
 Single cell RNA-sequencing (scRNA-seq) is a new technology that is rapidly growing recently in the biomedical science field. Prior to scRNA-seq, people use so-called bulk RNA-seq to perform transcriptome analysis, namely levels of gene expression of the whole genome in different groups of biomedical samples, such as tumor samples and normal control tissues, or cells of different treatments. By comparing gene expression in different samples, we usually get a list of differentially expressed genes, associated with disease or cell status. However, this bulk RNA-seq technique ignores the heterogeneity within a group and only capture the average gene expression of different cell in a group.
