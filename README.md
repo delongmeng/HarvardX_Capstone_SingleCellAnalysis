@@ -1,5 +1,4 @@
-# HarvardX_Capstone_SingleCellAnalysis
-The "Choose Your Own" project of the HarvardX Capstone course: Single Cell RNA and Protein Profiling
+# Single Cell RNA and Protein Profiling Using Seurat
 
 Can also be visited here:
 http://rpubs.com/delongmeng/563428
